@@ -1,0 +1,12 @@
+/** Beginning of CSS Styles **/
+
+ul{
+	text-decoration: none;
+	list-style-type: none;
+	display: inline-block;
+}
+ul li{
+	display: inline-block;
+	list-style-type: none;
+margin-right: 20px;
+}
