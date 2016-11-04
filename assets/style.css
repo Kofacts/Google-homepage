@@ -1,0 +1,21 @@
+/** Beginning of CSS Styles **/
+
+ul{
+	text-decoration: none;
+	list-style-type: none;
+	display: inline-block;
+}
+ul li{
+	display: inline-block;
+	list-style-type: none;
+margin-right: 20px;
+}
+input[type=text]:focus{
+	border: 1px solid #4285f4;
+}
+input[type=text]:target{
+	border: 1px solid #4285f4;	
+}
+input[type=text]:hover{
+	border:1px solid #4285f4;
+}
